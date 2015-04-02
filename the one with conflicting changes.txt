@@ -1,5 +1,5 @@
 This is line one
-
+Conflict!
 This is line two
 
 This is line three
