@@ -3,5 +3,5 @@ No conflict
 This is line two
 
 This is line three
-
+XXXX
 This is line four
